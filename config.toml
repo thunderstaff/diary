@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://kuro-diary.netlify.com/"
 languageCode = "ja"
 title = "diary"
 theme = "hemingway"
