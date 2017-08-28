@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "ja"
 title = "diary"
 theme = "hemingway"
-publishDir = "docs"
+publishDir = "public"
 
 [blackfriday]
 extensions = ["hardLineBreak"]
