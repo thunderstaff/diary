@@ -6,10 +6,19 @@
     <description>Recent content on diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Aug 2017 12:17:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 12:29:34 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>所感</title>
+      <link>/2017-08-28-%E6%89%80%E6%84%9F/</link>
+      <pubDate>Mon, 28 Aug 2017 12:29:34 +0900</pubDate>
+      
+      <guid>/2017-08-28-%E6%89%80%E6%84%9F/</guid>
+      <description>Netlifyを使うと、もとのGitHubアカウントはわからないので、匿名化された表現となる。</description>
+    </item>
     
     <item>
       <title>Hello</title>
