@@ -46,15 +46,5 @@
 hugo new &amp;ndash;editor nano して、pushすれば、更新できる。これなら手軽で、自分でも続けられるのかな、とぼんやり思う。</description>
     </item>
     
-    <item>
-      <title>日記</title>
-      <link>http://kuro-diary.netlify.com/2017-08-28-%E6%89%80%E6%84%9F/</link>
-      <pubDate>Mon, 28 Aug 2017 12:29:34 +0900</pubDate>
-      
-      <guid>http://kuro-diary.netlify.com/2017-08-28-%E6%89%80%E6%84%9F/</guid>
-      <description>人生が詰まっていく間隔がつらい。
-ノイズキャンセリングしている間は、やや精神に安定感が生まれるので、作業をすることができている。</description>
-    </item>
-    
   </channel>
 </rss>
